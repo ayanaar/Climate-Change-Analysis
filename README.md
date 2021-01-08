@@ -248,16 +248,3 @@ Python Tutorial. (n.d). \textit{Read CSV with Pandas: How to excel file using pa
 Yusof, N.. (2020, November 2). \textit{Introduction to Python 3: How to excel file using pandas.} Youtube. \url{https://www.youtube.com/watch?v=CVjd5T08DjI}  
   
 \end{document}  
-MarksSummary
-Introduction and Research Question
-Strong 8.50 / 10
-Data Description and Computational Overview
-Strong 12.75 / 15
-Program Design and Code Quality
-Strong 17.00 / 20
-Installing and Running the Program
-Good 15.00 / 20
-Description of Changes and Discussion
-Strong 12.75 / 15
-Overall Computational Complexity
-Good 15.00 / 20
