@@ -6,17 +6,17 @@ A major concern connected to climate change is sea level rise. According to an a
   
 We are interested in factors that affect sea level rise, such as glacier melt, ice sheet mass loss, and temperatures rising all over the world (Hennig, 2019). When water heats up, it expands, which causes the oceans to take up more space. While it is natural for glaciers and sea ice melt during the warmer months, they are now melting more than they should each year, and that also adds to sea levels—the natural evaporation and reformation of snow and ice that would normally balance out these effects is less effective as global temperatures increase (Nunez, 2019).  
   
-We are interested, additionally, in the relationship between carbon dioxide (CO_2) in the air and sea level rise and whether the two follow similar increasing trends. Due to the fossil fuels we frequently burn for energy, CO$_2$ levels in the atmosphere are greater than they have ever been in at least the past 800,000 years. As a greenhouse gas, carbon dioxide contributes greatly to trapping heat on Earth, causing global temperatures to rise, which in turn connects greater amounts of CO$_2$ to rising sea levels (Lindsey, 2020).  
+We are interested, additionally, in the relationship between carbon dioxide (CO_2) in the air and sea level rise and whether the two follow similar increasing trends. Due to the fossil fuels we frequently burn for energy, CO_2 levels in the atmosphere are greater than they have ever been in at least the past 800,000 years. As a greenhouse gas, carbon dioxide contributes greatly to trapping heat on Earth, causing global temperatures to rise, which in turn connects greater amounts of CO_2 to rising sea levels (Lindsey, 2020).  
   
-Our research question is, How are global mean sea levels changing with respect to changes in atmospheric CO$_2$ concentrations, mean cumulative mass balance of glaciers and global mean temperatures? 
+Our research question is, **"How are global mean sea levels changing with respect to changes in atmospheric CO_2 concentrations, mean cumulative mass balance of glaciers and global mean temperatures?"**
 
  
 **Datasets**
 
   
 - Average cumulative mass balance of reference glaciers worldwide: https://datahub.io/core/glacier-mass-balance\#data  
-- Monthly CO$_2$ (this data was also processed and put into an Excel file): https://www.CO$_2$.earth/monthly-CO$_2$  
-- Observed land-ocean temperatures: https://www.bloomberg.com/graphics/2015-whats-warming-the-world/data/ observed.csv  % a space has been added in the middle of this url to      make it fit on the page  
+- Monthly CO_2 (this data was also processed and put into an Excel file): https://www.CO_2.earth/monthly-CO_2 
+- Observed land-ocean temperatures: https://www.bloomberg.com/graphics/2015-whats-warming-the-world/data/ observed.csv  
 - Global Average Absolute Sea Level Change, 1880-2015: https://www.epa.gov/sites/production/files/2016-08/sea-level\_fig-1.csv  
  
 The first dataset we used is called ``Average cumulative mass balance of reference Glaciers worldwide”. It contains an average cumulative mass of glaciers from 1945-2014 sourced from US EPA and the World Glacier Monitoring Service (WGMS).  The values represent the average of all the glaciers that were measured. Negative values indicate a net loss of ice and snow compared with the base year of 1945. Measurements are in meters of water equivalent, which represent changes in the average thickness of a glacier (Datahub, 2015). This dataset is contained within a csv file. For our purposes, we used the "Mean cumulative mass balance” columns and the "Year” column, focusing only on the time period from 1993 to 2014.  
