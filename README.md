@@ -16,7 +16,7 @@ Our research question is, **"How are global mean sea levels changing with respec
   
 - Average cumulative mass balance of reference glaciers worldwide: https://datahub.io/core/glacier-mass-balance\#data  
 - Monthly CO_2 (this data was also processed and put into an Excel file): https://www.CO_2.earth/monthly-CO_2 
-- Observed land-ocean temperatures: https://www.bloomberg.com/graphics/2015-whats-warming-the-world/data/ observed.csv  
+- Observed land-ocean temperatures: https://www.bloomberg.com/graphics/2015-whats-warming-the-world/data/observed.csv  
 - Global Average Absolute Sea Level Change, 1880-2015: https://www.epa.gov/sites/production/files/2016-08/sea-level\_fig-1.csv  
  
 The first dataset we used is called ``Average cumulative mass balance of reference Glaciers worldwide”. It contains an average cumulative mass of glaciers from 1945-2014 sourced from US EPA and the World Glacier Monitoring Service (WGMS).  The values represent the average of all the glaciers that were measured. Negative values indicate a net loss of ice and snow compared with the base year of 1945. Measurements are in meters of water equivalent, which represent changes in the average thickness of a glacier (Datahub, 2015). This dataset is contained within a csv file. For our purposes, we used the "Mean cumulative mass balance” columns and the "Year” column, focusing only on the time period from 1993 to 2014.  
