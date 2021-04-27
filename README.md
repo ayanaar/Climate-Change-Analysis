@@ -28,8 +28,7 @@ The fourth dataset that we used is called "Global Average Absolute Sea Level Cha
   
 **Computational Overview**
   
-  
-**Statistical analysis functions **
+**Statistical analysis functions**
   
 We used different statistical calculations to analyse our data. We created a function for each one. There were some built-in functions we could have used from the statistics module, but we preferred to implement them ourselves. These functions include mode and median. We did have to use some built-in functions from the math module, these include: ceil and sqrt. Functions include: sample standard deviations, which calculates and returns the variability of the data. We also calculate r which measures the strength and direction between two quantitative variables. This is implemented using the correlation function. Other functions were implemented to figure out the linear regression: functions to return the slope and y-intercept of the line of best fit. We also implemented an interpolation to return the y values at certain x values in our line of best fit. We implemented an extrapolation function in order to predict future values of the graph. We also calculated the coefficient of determination (r squared) and the root mean squared error, which measures the prediction error for predictions from a linear regression model. Lastly, we created a function (multiple_lin_reg) that performs multiple linear regression on the data using the scikit-learn (sklearn) library. Using sklearn’s LinearRegression model, we can perform multiple linear regression, getting the coefficients and y-intercept of the equation from LinearRegression.coef_, and LinearRegression.intercept_. LinearRegression.fit() was used to `train’ the data to produce a final model.  
  
@@ -69,7 +68,7 @@ After running main.py, the user must call the run_program function, passing in a
 Note: On the interactive page with the buttons, for the statistical analysis button, it is required for you to make the screen full screen to view all the text. If you close this screen, you should click another button, close the screen, and reopen the statistical analysis in order to view it again.  
   
   
-**Refer to the project_report.pdf for screenshots on what the visualization should look like.**
+**Refer to the project_report(1).pdf for screenshots on what the visualization should look like.**
   
   
 **Discussion**
@@ -95,5 +94,5 @@ Some next steps might be to add extrapolating and predicting future results. Add
 Regardless of which factors we plotted, sea levels changed in the expected ways. A more negative glacier mass balance corresponded with higher sea levels, which makes sense as negative mass balance for a glacier suggests that it is melting more than it is able to recover from each year. Higher CO_2 levels mean that heat is trapped by the greenhouse gases in the atmosphere, leading to higher sea levels as the Earth heats up. Higher global temperatures lead to rising sea levels as the water expands. All of our graphs and analysis show these things to be true, and the factors we used are directly affected by climate change. We can thus conclude that rising sea levels are related to increased CO_2, melting glaciers, and increasing global temperatures in a linear way.  
   
   
-**Refer to project_report.pdf for a full list of references. **
+**Refer to project_report.pdf for a full list of references.**
 
