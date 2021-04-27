@@ -15,7 +15,7 @@ Our research question is, **"How are global mean sea levels changing with respec
 
   
 - Average cumulative mass balance of reference glaciers worldwide: https://datahub.io/core/glacier-mass-balance\#data  
-- Monthly CO_2 (this data was also processed and put into an Excel file): https://www.CO_2.earth/monthly-CO_2 
+- Monthly CO_2 (this data was also processed and put into an Excel file): https://www.CO2.earth/monthly-CO2
 - Observed land-ocean temperatures: https://www.bloomberg.com/graphics/2015-whats-warming-the-world/data/observed.csv  
 - Global Average Absolute Sea Level Change, 1880-2015: https://www.epa.gov/sites/production/files/2016-08/sea-level\_fig-1.csv  
  
