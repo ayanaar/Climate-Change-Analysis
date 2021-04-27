@@ -94,5 +94,5 @@ Some next steps might be to add extrapolating and predicting future results. Add
 Regardless of which factors we plotted, sea levels changed in the expected ways. A more negative glacier mass balance corresponded with higher sea levels, which makes sense as negative mass balance for a glacier suggests that it is melting more than it is able to recover from each year. Higher CO_2 levels mean that heat is trapped by the greenhouse gases in the atmosphere, leading to higher sea levels as the Earth heats up. Higher global temperatures lead to rising sea levels as the water expands. All of our graphs and analysis show these things to be true, and the factors we used are directly affected by climate change. We can thus conclude that rising sea levels are related to increased CO_2, melting glaciers, and increasing global temperatures in a linear way.  
   
   
-**Refer to project_report.pdf for a full list of references.**
+**Refer to project_report(1).pdf for a full list of references.**
 
