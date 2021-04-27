@@ -8,7 +8,7 @@ We are interested in factors that affect sea level rise, such as glacier melt, i
   
 We are interested, additionally, in the relationship between carbon dioxide (CO_2) in the air and sea level rise and whether the two follow similar increasing trends. Due to the fossil fuels we frequently burn for energy, CO$_2$ levels in the atmosphere are greater than they have ever been in at least the past 800,000 years. As a greenhouse gas, carbon dioxide contributes greatly to trapping heat on Earth, causing global temperatures to rise, which in turn connects greater amounts of CO$_2$ to rising sea levels (Lindsey, 2020).  
   
-Our research question is, **How are global mean sea levels changing with respect to changes in atmospheric CO$_2$ concentrations, mean cumulative mass balance of glaciers and global mean temperatures? **
+Our research question is, How are global mean sea levels changing with respect to changes in atmospheric CO$_2$ concentrations, mean cumulative mass balance of glaciers and global mean temperatures? 
 
  
 **Datasets**
