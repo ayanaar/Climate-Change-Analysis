@@ -1,3 +1,5 @@
+**Effects of Melting Glaciers, CO_2 and Global Temperature on Sea Level Rise**
+
 **Introduction**
   
 A major concern connected to climate change is sea level rise. According to an article from National Geographic, average sea levels have gone up by about 23 centimetres since 1880, and the current trend is a yearly increase of approximately 3.2 mm (Nunez, 2019). A 2019 report from the National Oceanic and Atmospheric Administration (NOAA) noted that the last twenty years have seen a rapid increase in flooding events along U.S. coasts alone, and that increase is expected to continue (Jet Propulsion Laboratory, 2020). This is problematic because rising seas could lead to coastal areas being flooded, forcing people to flee for higher ground and migrate to new areas. Storms and hurricanes would also be exacerbated, worsening the damage they cause. Additionally, saltwater could leach into aquifers, destroying habitats and leading to huge losses in crop production as freshwater is contaminated (Amadeo, 2020).  
@@ -42,8 +44,8 @@ For curve fitting, linear, quadratic, cubic, and exponential functions were used
 **Visualizing the data**
   
 Our program uses Matplotlib to display results in a visual way, because it has "widgets” that allow a user to interact with graphs created by the program. When the run\_program function is called, it displays several buttons in a new window. These Button objects from Matplotlib.widgets can be clicked on to bring up various graphs where sea levels are plotted along the y-axis and one of the three independent variables (CO_2 levels in the atmosphere, glacier mass balance, or global overall temperatures) is plotted along the x-axis. These are graphed using plt.plot(). The graphs display curve fits generated using functions described above for the curve_fitting module and displays their equations with functions from the curve_equations module. Additionally, there is a 'General Statistical Analysis’ button that will display, in a separate window, the results of performing multiple linear regression, showing the final equation, as well as the coefficients and intercept. Furthermore, this window will show root mean squared error for each independent variable.  
-**  
-Instructions For Dataset Download**
+
+**Instructions For Dataset Download**
   
 We used four libraries for our project: Pandas, Matplotlib, Scikit-learn, and SciPy.  
   
@@ -65,8 +67,8 @@ After running main.py, the user must call the run_program function, passing in a
   
 Note: On the interactive page with the buttons, for the statistical analysis button, it is required for you to make the screen full screen to view all the text. If you close this screen, you should click another button, close the screen, and reopen the statistical analysis in order to view it again.  
   
-**Refer to the project_report.pdf for screenshots on what the visualization should look like. **
-  
+**Refer to the project_report.pdf for screenshots on what the visualization should look like.
+  **
   
 **Discussion**
   
@@ -90,6 +92,5 @@ Some next steps might be to add extrapolating and predicting future results. Add
   
 Regardless of which factors we plotted, sea levels changed in the expected ways. A more negative glacier mass balance corresponded with higher sea levels, which makes sense as negative mass balance for a glacier suggests that it is melting more than it is able to recover from each year. Higher CO_2 levels mean that heat is trapped by the greenhouse gases in the atmosphere, leading to higher sea levels as the Earth heats up. Higher global temperatures lead to rising sea levels as the water expands. All of our graphs and analysis show these things to be true, and the factors we used are directly affected by climate change. We can thus conclude that rising sea levels are related to increased CO_2, melting glaciers, and increasing global temperatures in a linear way.  
   
-**
-Refer to project_report.pdf for a full list of references. 
-**
+**Refer to project_report.pdf for a full list of references. **
+
